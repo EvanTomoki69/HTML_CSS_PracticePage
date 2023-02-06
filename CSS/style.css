@@ -1,0 +1,61 @@
+#boton{
+    background: #ec4e82;
+    color: #ffffff;
+    
+}
+
+.Header {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120px;
+    font-weight: 600;
+    background-image: linear-gradient(to bottom left, #553c9a, #ee4b2b);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    
+}
+
+.Navigation {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); 
+    
+}
+
+
+.Desarrollo{
+    color: rgb(215, 253, 0);
+}
+
+.Testing{
+    color: #ee006f;
+}
+
+.Consultor{
+    color: #a900ec;
+}
+
+.Cursos{
+    color: #00d9e9;
+}
+
+.Servicios {
+    
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 7rem;
+    font-weight: bold;
+}
+
+.Cursos {
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4.5rem;
+    font-optical-sizing: 1.5;
+    transition: 5s;
+}
